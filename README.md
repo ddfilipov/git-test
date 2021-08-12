@@ -1,0 +1,1 @@
+This is Denis' first git project for The Odin Project course
